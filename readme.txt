@@ -132,6 +132,9 @@ Visualizer class is untested.
  *  include any help from people (including course staff, TA,
  *  classmates, and friends) and attribute them by name.
  *****************************************************************************/
+ 
+ Special thanks for Travis for providing the stubs and meta direction for this
+ assignment.
 
 I encountered a slight logic error, where I assigned the union class to an
 array of objects that hold arrays, rather than an object that has an array.
